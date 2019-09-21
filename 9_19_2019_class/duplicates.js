@@ -1,5 +1,5 @@
 //EXERCISE
-// In this exercise, we are going to find an array that has duplicate values
+//In this exercise, we are going to find an array that has duplicate values
 //We will create a first loop that goes through all of the items in the array
 //We will have a second loop that checks all of the items again the in index of the first loop
 
