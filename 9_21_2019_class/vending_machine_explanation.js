@@ -26,7 +26,7 @@
 //-- If they do not choose an item, all the money can be returned to them
 
 //Your task is to create a simulation in which 5 different buyers attempt to buy an item from the vending machine.
-// Remember everything we have learned in class to use are your disposal:
+// Remember everything we have learned in class to use at your disposal:
 //- If Statements
 //- For Loops
 //- Arrays
@@ -34,3 +34,7 @@
 //- Functions
 
 //With a partner, please discuss the problem by laying each piece of the problem 1 step at a time, and work your way through the problem.
+
+
+// step 1, define the object
+// line 21 if a function (function within an object)
